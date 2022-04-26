@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python, AWS, Linix, Arduino, and Powershell
 - 💞️ I’m looking to collaborate on penetration testing exercises, coding projects
 - 📫 How to reach me Discord: https://discord.gg/PDjd7NDR
+- For work: Joshpeterson316@gmail.com
 
 
 <!---
